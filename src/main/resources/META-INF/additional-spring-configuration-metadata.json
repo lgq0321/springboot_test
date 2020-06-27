@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "cglib.debugLocation",
+      "type": "java.lang.String",
+      "description": "Description for cglib.debugLocation."
+  }
+] }
